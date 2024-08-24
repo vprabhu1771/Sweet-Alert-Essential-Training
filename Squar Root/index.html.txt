@@ -1,0 +1,3 @@
+<input type="text" id="sqrt" placeholder="Enter any integer">
+
+    <input type="button" value="check" id="check_process">
